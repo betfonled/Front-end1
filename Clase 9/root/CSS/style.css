@@ -1,0 +1,56 @@
+.oferta{
+    background-color: #222222;
+    color: #FFFFFF;   
+}
+
+.principal{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+
+}
+
+h1{
+    text-align: center;
+    color:#3C2313;
+    font-size: 50px;
+}
+
+h2{
+    color:#3C2313;
+    font-size: 50px;
+}
+
+#descuento{
+    font-size: 25px;
+    width: 300px;
+    height: auto;
+    position: relative;
+    left: 700px;
+    top: 120px;
+}
+
+#come{
+    background-color: #F0A83E;
+    color:#ffffff;
+    font-size: 20px;
+    width: 125px;
+    height: auto;
+    position: relative;
+    left: 800px;
+    top: 130px;
+}
+
+#producto{
+    background-color:	#D3D3D3;
+}
+
+#divfooter{
+    background-color: #3C2313;
+    color: #FFFFFF;
+}
+
+h5{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+    text-align: center;
+}
